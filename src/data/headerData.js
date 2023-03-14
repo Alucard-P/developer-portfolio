@@ -1,5 +1,5 @@
 import CV from "../assets/pdf/CV.pdf";
-import perfil from "../assets/jpg/perfil.jpg";
+import perfil from "../assets/png/perfil.png";
 export const headerData = {
   name: "Paul Espinoza",
   title: "Full Stack Developer",
